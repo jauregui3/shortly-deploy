@@ -133,7 +133,7 @@ describe('', function() {
 
   }); // 'Link creation'
 
-  describe('Priviledged Access:', function() {
+  describe('Privileged Access:', function() {
 
     // /*  Authentication  */
     // // TODO: xit out authentication
